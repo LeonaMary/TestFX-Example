@@ -1,4 +1,4 @@
-# TestFX-Examples
+# TestFX-Example
 
 | Technology  | Description |
 | ----------- | ----------- |
