@@ -4,8 +4,9 @@
 | ----------- | ----------- |
 | JavaFX 8    | Desktop client development platform |
 | Spring Boot | Dependency injection and libraries |
-| TestFX      | Unit and integration testing of JavaFX applications |
+| TestFX      | Testing JavaFX applications |
 | Maven       | Dependency management and build tool |
+| JUnit       | Unit and integration testing |
 | JaCoCo      | Code coverage calculator |
 | SonarQube   | Repository for code coverage information |
 
